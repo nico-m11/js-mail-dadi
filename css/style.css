@@ -1,3 +1,25 @@
 .container {
   height: 200px;
+  background-color: lightgray;
+  border: 2px solid purple;
+  margin: 80px;
+}
+h4 {
+  text-align: center;
+}
+
+span {
+  float: left;
+  margin-left: 300px;
+  font-size: 20px;
+
+}
+#risultato {
+  margin-left: 450px;
+}
+#play1, #puno {
+  color: red;
+}
+#play2, #pdue {
+  color: blue;
 }
